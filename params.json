@@ -1,0 +1,22 @@
+{
+  "n1": 6,
+  "n2": -15,
+  "n3": -15,
+  "v1": 10000000,
+  "v2": 10000000,
+  "ratio_long": 0.33,
+  "ratio_short": 0.33,
+  "symbol": "DOGEUSDT",
+  "interval": "1h",
+  "aggrows": 1,
+  "hours": 1,
+  "tail": 6,
+  "hours_check": 1,
+  "seconds_sleep": 300,
+  "mail_send": 1,
+  "trade": 1,
+  "leverage": 1,
+  "balance": 25,
+  "get_balance": 0,
+  "get_balance_percent": 0.25
+}
