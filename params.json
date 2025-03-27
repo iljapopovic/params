@@ -1,5 +1,6 @@
 {
-  "n1": 3,
+  "mfi1": 3,
+  "mfi2": 3,
   "n2": 5,
   "n3": -40,
   "v1": 10000000,
@@ -16,7 +17,7 @@
   "mail_send": 1,
   "trade": 1,
   "leverage": 1,
-  "balance": 45,
+  "balance": 25,
   "get_balance": 0,
   "get_balance_percent": 0.25
 }
