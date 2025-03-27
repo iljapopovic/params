@@ -17,7 +17,7 @@
   "mail_send": 1,
   "trade": 1,
   "leverage": 1,
-  "balance": 25,
+  "balance": 45,
   "get_balance": 0,
   "get_balance_percent": 0.25
 }
