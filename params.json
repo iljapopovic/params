@@ -19,6 +19,6 @@
   "symbol_trade": "1000PEPEUSDT",
   "leverage": 1,
   "balance": 150,
-  "get_balance": 0,
+  "get_balance": 1,
   "get_balance_percent": 0.5
 }
