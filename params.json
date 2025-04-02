@@ -7,6 +7,5 @@
     "leverage": 1,
     "balance": 150,
     "get_balance": 1,
-    "get_balance_percent": 0.25,
-    "comment": ""
+    "get_balance_percent": 0.25
 }
