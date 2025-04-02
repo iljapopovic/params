@@ -8,5 +8,5 @@
   "balance": 100,
   "get_balance": 1,
   "get_balance_percent": 0.25,
-  "find_best": 1
+  "find_best": 0
 }
