@@ -2,7 +2,7 @@
   "minutes_check": 30,
   "seconds_sleep": 300,
   "mail_send": 1,
-  "trade": 1,
+  "trade": 0,
   "symbol_trade": "1000PEPEUSDT",
   "leverage": 1,
   "balance": 100,
