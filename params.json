@@ -3,10 +3,10 @@
   "seconds_sleep": 300,
   "mail_send": 1,
   "trade": 1,
+  "find_best": 1,
   "symbol_trade": "1000PEPEUSDT",
   "leverage": 1,
   "balance": 100,
   "get_balance": 1,
-  "get_balance_percent": 0.25,
-  "find_best": 1
+  "get_balance_percent": 0.25
 }
