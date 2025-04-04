@@ -3,7 +3,7 @@
   "seconds_sleep": 300,
   "active": 1,
   "trade": 1,
-  "find_best": 0,
+  "find_best": 1,
   "symbol_trade": "1000PEPEUSDT",
   "leverage": 1,
   "balance": 100,
