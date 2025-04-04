@@ -1,7 +1,7 @@
 {
   "minutes_check": 30,
   "seconds_sleep": 300,
-  "mail_send": 1,
+  "active": 1,
   "trade": 1,
   "find_best": 0,
   "symbol_trade": "1000PEPEUSDT",
