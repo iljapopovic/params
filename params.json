@@ -8,5 +8,9 @@
   "leverage": 1,
   "balance": 25,
   "get_balance": 0,
-  "get_balance_percent": 0.2
+  "get_balance_percent": 0.2,
+  "symbol": "PEPEUSDT",
+  "interval": "30m",
+  "aggrows": 1,
+  "tail": 6
 }
