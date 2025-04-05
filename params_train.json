@@ -20,8 +20,8 @@
   "n4_from": 0.6,
   "n4_to": 1.21,
   "n4_step": 0.1,
-  "n5_from": 0.8,
-  "n5_to": 1.31,
+  "n5_from": 0.6,
+  "n5_to": 1.21,
   "n5_step": 0.1,
   "ratio_long": 0.33,
   "ratio_short": 0.1
