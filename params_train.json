@@ -3,7 +3,7 @@
   "interval": "30m",
   "hours": 2,
   "aggrows": 1,
-  "nr_hours": 480,
+  "nr_hours": 60,
   "nr_hours_test": 24,
   "n1_from": 1,
   "n1_to": 2,
