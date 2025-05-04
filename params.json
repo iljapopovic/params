@@ -4,6 +4,7 @@
   "active": 1,
   "trade": 1,
   "find_best": 0,
+  "use_vratio":0,
   "symbol_trade": "DOGEUSDT",
   "leverage": 1,
   "balance": 25,
