@@ -9,7 +9,7 @@
   "leverage": 1,
   "balance": 25,
   "get_balance": 1,
-  "get_balance_percent": 1,
+  "get_balance_percent": 0.9,
   "symbol": "DOGEUSDT",
   "interval": "30m",
   "aggrows": 1,
