@@ -13,5 +13,5 @@
   "symbol": "DOGEUSDT",
   "interval": "30m",
   "aggrows": 1,
-  "tail": 8
+  "tail": 12
 }
